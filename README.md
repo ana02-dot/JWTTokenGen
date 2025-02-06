@@ -1,1 +1,1 @@
-This is the project about  generate JWT Token and implement in the code, it's basic implementation
+This project is about generating a JWT token and implementing it in the code. It is a basic implementation.
